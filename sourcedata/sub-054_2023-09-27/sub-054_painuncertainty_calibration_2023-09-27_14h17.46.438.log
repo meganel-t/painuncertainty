@@ -1,0 +1,11 @@
+37.6326 	WARNING 	User requested fullscreen with size [1360  768], but screen is actually [1920, 1080]. Using actual size
+38.0269 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000028EEEE04640>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000028EF14E3490>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+38.0270 	EXP 	window1: mouseVisible = True
+38.0270 	EXP 	window1: mouseVisible = True
+38.0270 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+38.0270 	EXP 	window1: recordFrameIntervals = False
+38.0961 	EXP 	window1: recordFrameIntervals = True
+38.1729 	EXP 	Screen (0) actual frame rate measured at 143.18Hz
+38.1730 	EXP 	window1: recordFrameIntervals = False
+39.1549 	EXP 	Created textwelcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textwelcome', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+46.1431 	EXP 	window1: mouseVisible = True
